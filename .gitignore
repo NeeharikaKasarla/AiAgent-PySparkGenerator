@@ -1,0 +1,48 @@
+# =========================
+# Java / Maven
+# =========================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iws
+*.ipr
+out/
+
+# =========================
+# OS-specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / Temp
+# =========================
+*.log
+*.tmp
+
+# =========================
+# Spring Boot / Config
+# =========================
+application-*.yml
+application-*.properties
+
+# Important: keep application.yml but REMOVE your API key before commit
+# In your repo, comment the key field like:
+# api-key: # ADD YOUR API KEY HERE
+
+# =========================
+# Test data / local files
+# =========================
+transactions_2024.csv
