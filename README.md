@@ -16,7 +16,7 @@ A Spring Boot microservice that generates **PySpark scripts** from natural langu
 - Java 21+
 - Maven 3+
 - An OpenAI API Key ([create one here](https://platform.openai.com/api-keys))
-- (Optional) Docker / LocalStack for testing with local S3 buckets
+- Docker / LocalStack for testing with local S3 buckets
 
 ---
 
